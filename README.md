@@ -14,6 +14,7 @@ Actualmente adquiriendo nuevas competencias en ciencia de datos y analítica pre
 ![Pytorch](https://img.shields.io/badge/Pytorch-FF5733?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=101010)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-f89b0f?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=101010)</br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-0fa30a?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)
+![SQLite](https://img.shields.io/badge/SQLite-5499c7?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)
 
 #### Contacto:
 <p align="left">
