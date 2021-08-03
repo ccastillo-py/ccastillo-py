@@ -1,4 +1,4 @@
-### Bienvenido, mi nombre es Carlos Castillo 👋
+### Bienvenido, mi nombre es Carlos Castillo 👋<img align="right" src="https://img.shields.io/github/watchers/ccastillo-py/ccastillo-py?style=social">
 
 👨‍💻 **Sobre mí**</br>
 
@@ -23,3 +23,5 @@ Actualmente adquiriendo nuevas competencias en ciencia de datos y analítica pre
   
 #### Contacto:
 [![Email](https://img.shields.io/badge/Mi_correo-ccatillo.py@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:ccatillo.py@gmail.com)
+
+  
