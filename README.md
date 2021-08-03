@@ -1,4 +1,4 @@
-### Bienvenido, mi nombre es Carlos Castillo 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ccastillo-py&label=Visitas&color=e74c3c&style=flat-square"/></p>
+### Bienvenido, mi nombre es Carlos Castillo 👋
 
 👨‍💻 **Sobre mí**</br>
 
