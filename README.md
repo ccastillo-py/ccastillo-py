@@ -1,5 +1,7 @@
 ### Bienvenido, mi nombre es Carlos Castillo 👋<img align="right" src="https://img.shields.io/github/watchers/ccastillo-py/ccastillo-py?style=social">
 
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/ccastillo-py/ccastillo-py?style=social">
+
 👨‍💻 **Sobre mí**</br>
 
 Ingeniero Industrial y Máster en Data Science y Análisis de Datos.</br>
