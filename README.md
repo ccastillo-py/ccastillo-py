@@ -1,4 +1,4 @@
-### Bienvenido, mi nombre es Carlos Castillo 👋<img align="right" src="https://img.shields.io/github/watchers/ccastillo-py/ccastillo-py?style=social">
+### Bienvenido, mi nombre es Carlos Castillo 👋<p align="right"> <img src="https://komarev.com/ghpvc/?username=ccastillo-py&label=Profile%20views&color=0e75b6&style=flat" alt="ccastillo-py" /></p>
 
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/ccastillo-py/ccastillo-py?style=social">
 
