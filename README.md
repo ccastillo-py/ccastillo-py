@@ -5,6 +5,8 @@
 Ingeniero Industrial y Máster en Data Science y Análisis de Datos.</br>
 Acostumbrado a trabajar en entornos multidisciplinares, con profunda capacidad de análisis, adaptación y resolución de problemas. Perfil polivalente, habituado a trabajar en     elaboración de proyectos en todas sus fases de desarrollo.
 Actualmente adquiriendo nuevas competencias en ciencia de datos y analítica predictiva a través de programación estadística a fin de formar parte de la revolución tecnológica   y digital que se está produciendo.
+
+![Counter](https://komarev.com/ghpvc/?username=ccastillo-py&style=flat-square&label=Visitas&color=grey)
   
 #### Habilidades:
 ![Python](https://img.shields.io/badge/Python-0077B5?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
@@ -23,5 +25,3 @@ Actualmente adquiriendo nuevas competencias en ciencia de datos y analítica pre
   
 #### Contacto:
 [![Email](https://img.shields.io/badge/Mi_correo-ccatillo.py@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:ccatillo.py@gmail.com)
-
-  
